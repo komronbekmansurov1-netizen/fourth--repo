@@ -1,0 +1,1 @@
+print("Bu to`rtinchi kod")
